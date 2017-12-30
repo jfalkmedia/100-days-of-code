@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1 (R1D1): December 30, 2017 - Saturday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+1. I took some JavaScript challenges via freeCodeCamp (Concatenating Strings with Plus Operator - Stand in Line)
+2. I started a Codewars account, and took on a challenge.
+3. I also needed a refresher of GitHub (Git and Command Line), so I worked through some tutorials - used the command line to create a repo, commit and push some changes.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link to work:** [Calculator App](http://www.example.com)
+I planned on starting my code challenge on January 1st, but, I had time this morning, so I jumped on in.  My initial thought is that I jumped in without a plan. In order to be successful, I will spend some time writing down my goals, and some possible projects to work on during the remaining 99 days of the challenge. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work**: 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+https://github.com/jfalkmedia/lkt-website
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
