@@ -15,4 +15,17 @@ I planned on starting my code challenge on January 1st, but, I had time this mor
 
 https://github.com/jfalkmedia/lkt-website
 
+### Day 2 (R1D2): December 31, 2017 - Sunday
 
+**Today's Progress**: 
+1. I took some JavaScript challenges via freeCodeCamp (Understanding Boolean Values - Counting Cards)
+2. Refactored all if/else statements to use switch statements until it clicked.
+3. Started converting static HTML site to Wordpress custom theme.
+
+**Thoughts**: 
+
+My code refresher is proving to be like riding a bicycle (yay!). When I first learned JavaScript, switch statements were something I ignored. For some reason they never made sense to me, but today I made it click! After playing around with some JavaScript, I jumped over to WordPress, and started converting a static HTML prototype into a custom WordPress theme. I did get stuck a few times, and could feel my frustration laughing at me, but I kept pushing through and figured everything out! 
+
+**Link to work**: 
+
+https://bitbucket.org/jfalkmedia/laurenkeepstime-wp
