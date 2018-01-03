@@ -47,3 +47,20 @@ Today was a bit slower moving than yesterday. Probably can blame New Year's Eve 
 **Link to work**: 
 
 https://bitbucket.org/jfalkmedia/laurenkeepstime-wp
+
+=============================
+
+### Day 4 (R1D4): January 02, 2018 - Tuesday
+
+**Today's Progress**: 
+1. I took some JavaScript challenges via freeCodeCamp (Iterate with JavaScript For Loops - Profile Lookup)
+2. Worked on WordPress theme (converted homepage to dynamically generate content using custom fields, started working on page templates)
+
+**Thoughts**: 
+
+I could have been less distracted while coding, but I was still able to figure out all my challenges. Tomorrow's goal: I'm going to finish the Basic JavaScript section via freeCodeCamp. I also spent some time working on the WordPress theme. Began making use of custom fields on the home page. Makes the site nice and clean.
+ 
+
+**Link to work**: 
+
+n/a
