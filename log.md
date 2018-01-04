@@ -64,3 +64,19 @@ I could have been less distracted while coding, but I was still able to figure o
 **Link to work**: 
 
 n/a
+
+=============================
+
+### Day 5 (R1D5): January 03, 2018 - Wednesday
+
+**Today's Progress**: 
+1. I took some JavaScript challenges via freeCodeCamp (Generate Random Fractions with JavaScript - Invert Regular Expression Matches with JavaScript)
+2. Worked on WordPress theme (converted HTML forms to plugin based solution and added in custom css)
+
+**Thoughts**: 
+
+Coding during the week after work proves to be difficult, but so far I've made it to day 5. 
+
+**Link to work**: 
+
+n/a
