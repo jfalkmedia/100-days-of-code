@@ -80,3 +80,19 @@ Coding during the week after work proves to be difficult, but so far I've made i
 **Link to work**: 
 
 n/a
+
+=============================
+
+## Day 6 (R1D6): January 04, 2018 - Thursday
+
+**Today's Progress**: 
+1. I took some JavaScript challenges via freeCodeCamp (Declare JavaScript Objects as Variables - Iterate over Arrays with .map)
+2. Worked on WordPress theme 
+
+**Thoughts**: 
+
+Had trouble adding custom css to form plugin. Was able to use chrome dev tools to debug some errors. Still have some work to do. 
+
+**Link to work**: 
+
+n/a
