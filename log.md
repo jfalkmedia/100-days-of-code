@@ -96,3 +96,19 @@ Had trouble adding custom css to form plugin. Was able to use chrome dev tools t
 **Link to work**: 
 
 n/a
+
+=============================
+
+### Day 7 (R1D7): January 05, 2018 - Friday
+
+**Today's Progress**: 
+1. Today was a total WordPress theme project day 
+
+**Thoughts**: 
+
+Started working on some basic page templates, custom page templates. 
+ 
+
+**Link to work**: 
+
+n/a
