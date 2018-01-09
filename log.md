@@ -112,3 +112,51 @@ Started working on some basic page templates, custom page templates.
 **Link to work**: 
 
 n/a
+
+=============================
+
+### Day 8 (R1D8): January 06, 2018 - Saturday
+
+**Today's Progress**: 
+1. Worked on WordPress theme 
+
+**Thoughts**: 
+
+Worked with custom post types, custom queries. Also worked on adding custom post type slider. Had trouble getting the JavaScript to work. Also took a while to figure out how to make the custom post type query work with the slider.
+ 
+
+**Link to work**: 
+
+n/a
+
+=============================
+
+### Day 9 (R1D9): January 07, 2018 - Sunday
+
+**Today's Progress**: 
+1. Today was another total WordPress theme project day 
+
+**Thoughts**: 
+
+Started working on photo gallery. Also worked on menu. Got stuck on menu css. Need to revisit that.
+ 
+
+**Link to work**: 
+
+n/a
+
+=============================
+
+### Day 10 (R1D10): January 08, 2018 - Monday
+
+**Today's Progress**: 
+1. Today was a total WordPress theme project day 
+
+**Thoughts**: 
+
+More work on custom post types, page templates. Also started replacing some static HTML with dynamic php.
+ 
+
+**Link to work**: 
+
+n/a
