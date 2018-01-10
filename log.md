@@ -160,3 +160,19 @@ More work on custom post types, page templates. Also started replacing some stat
 **Link to work**: 
 
 n/a
+
+=============================
+
+### Day 11 (R1D11): January 09, 2018 - Tuesday
+
+**Today's Progress**: 
+1. I worked through some challenges in freeCodeCamp (Condense arrays with .reduce - Check for Palindromes)
+
+**Thoughts**: 
+
+Today I got frustrated pretty easily, and made pretty silly mistakes. Of course when I figured out the answer it was a nice, "ohhhhhhh" kind of moment.
+ 
+
+**Link to work**: 
+
+n/a
