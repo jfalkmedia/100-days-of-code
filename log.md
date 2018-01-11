@@ -176,3 +176,18 @@ Today I got frustrated pretty easily, and made pretty silly mistakes. Of course 
 **Link to work**: 
 
 n/a
+
+=============================
+
+### Day 12 (R1D12): January 10, 2018 - Wednesday
+
+**Today's Progress**: 
+1. I worked through a challenge in freeCodeCamp (Find the Longest Word in a String), and did some more work on the WordPress theme
+
+**Thoughts**: 
+
+Whenever I hit a roadblock today, I broke down the problem into smaller chunks, and worked out what I had to do in my head before executing. I also made more use of the Developer Tools Console in Chrome. Seemed to help me solve problems much faster (and with less frustration)
+
+**Link to work**: 
+
+n/a
