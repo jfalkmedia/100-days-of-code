@@ -191,3 +191,34 @@ Whenever I hit a roadblock today, I broke down the problem into smaller chunks, 
 **Link to work**: 
 
 n/a
+
+=============================
+
+### Day 13 (R1D13): January 11, 2018 - Thursday (-)
+
+**Today's Progress**: 
+No progress - the day did not present itself with any opportunity for extra code.
+
+**Thoughts**: 
+
+I don't feel defeated that I only made it 12 days straight. I decided to continue counting. I've added in a (-) symbol to signify the days I did not get to code. Hopefully there won't be too many days where I need to add it! Onward.
+
+**Link to work**: 
+
+n/a
+
+=============================
+
+### Day 14 (R1D14): January 12, 2018 - Friday
+
+**Today's Progress**: 
+1. Today was a WordPress day, so PHP
+2. Also some CSS
+
+**Thoughts**: 
+
+Today I spent some time making my theme more dynamic by giving some pages some custom fields. I also found a few ways to execute my CSS a bit more simply. Trying to be smarter and cleaner about how I code. I'm often pressed for time, and that causes me to rush. Slow down Jaclyn.
+
+**Link to work**: 
+
+n/a
