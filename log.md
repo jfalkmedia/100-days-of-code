@@ -222,3 +222,47 @@ Today I spent some time making my theme more dynamic by giving some pages some c
 **Link to work**: 
 
 n/a
+
+=============================
+
+### Day 15 (R1D15): January 13, 2018 - Saturday
+
+**Today's Progress**: 
+Learned some command line and git. 
+
+**Thoughts**: 
+
+I don't know why embracing version control has been so hard for me, but today I embraced it. Bye bye cowboy coding...?
+
+**Link to work**: 
+
+n/a
+
+=============================
+
+### Day 16 (R1D16): January 14, 2018 - Sunday
+
+**Today's Progress**: 
+Started the Mobile Web Specialist track in Udacity
+
+**Thoughts**: 
+
+This was a tough code day for sure. Had to first set up my computer (thankfully I worked some command line code yesterday, made today easier). I worked through lesson 1, 2, and 62% done with lesson 3. The quizzes get pretty challenging for me, but in a good way! I also really like debugging.
+
+**Link to work**: 
+
+n/a
+
+=============================
+
+### Day 17 (R1D17): January 15, 2018 - Monday
+
+**Today's Progress**: 
+Today was a little bit of CSS, a little bit of PHP, a little bit of WordPress
+
+**Thoughts**: 
+I used dev tools quite a bit today for debugging. It's fun to debug.
+
+**Link to work**: 
+
+n/a
