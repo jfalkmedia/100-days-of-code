@@ -258,11 +258,29 @@ n/a
 ### Day 17 (R1D17): January 15, 2018 - Monday
 
 **Today's Progress**: 
+
 Today was a little bit of CSS, a little bit of PHP, a little bit of WordPress
 
 **Thoughts**: 
+
 I used dev tools quite a bit today for debugging. It's fun to debug.
 
 **Link to work**: 
+
+n/a
+
+=============================
+
+**Day 18 (R1D18): January 18, 2018 - Tuesday**
+
+**Today's Progress**:
+
+Today was a slow day. Did some work on my WordPress theme. Lots of css customization on slideshows and sidebar nav.
+
+**Thoughts**:
+
+I'd like to do some more CSS3 challenges to boost my skills.
+
+**Link to work**:
 
 n/a
