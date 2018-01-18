@@ -271,7 +271,7 @@ n/a
 
 =============================
 
-**Day 18 (R1D18): January 18, 2018 - Tuesday**
+**Day 18 (R1D18): January 16, 2018 - Tuesday**
 
 **Today's Progress**:
 
