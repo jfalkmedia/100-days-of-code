@@ -284,3 +284,32 @@ I'd like to do some more CSS3 challenges to boost my skills.
 **Link to work**:
 
 n/a
+
+=============================
+
+### Day 19 (R1D19): January 17, 2018 - Wednesday (-)
+
+**Today's Progress**: 
+No progress - the day did not present itself with any opportunity for extra code.
+
+**Thoughts**: 
+
+I've added in a (-) symbol to signify the days I did not get to code. Hopefully there won't be too many days where I need to add it! Onward.
+
+**Link to work**: 
+
+n/a
+
+=============================
+
+### Day 20 (R1D20): January 18, 2018 - Thursday
+
+**Today's Progress**: 
+JavaScript challenges on my phone.
+
+**Thoughts**: 
+I didn't have very much time today to get too involved in a code project. But, I did force myself to at least do a couple challenges on an app.
+
+**Link to work**: 
+
+n/a
