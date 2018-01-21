@@ -336,7 +336,7 @@ n/a
 Did a few JavaScript challenges on Enki. 
 
 **Thoughts**: 
-Have friends visiting from out of town, so the last day and next few days will probably end up being light challenge kind of days.
+Have friends visiting from out of town, so the last day and next few days will probably end up being light challenge kind of days. I'll still do what I can.
 
 **Link to work**: 
 
