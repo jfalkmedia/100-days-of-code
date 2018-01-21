@@ -313,3 +313,31 @@ I didn't have very much time today to get too involved in a code project. But, I
 **Link to work**: 
 
 n/a
+
+=============================
+
+### Day 21 (R1D21): January 19, 2018 - Friday
+
+**Today's Progress**: 
+Had time to add a state selection app via JavaScript to a website.
+
+**Thoughts**: 
+I didn't have very much time today but did write at least a bit of code to check for a state code and redirect to the proper site based on user selection.
+
+**Link to work**: 
+
+n/a
+
+=============================
+
+### Day 22 (R1D22): January 20, 2018 - Saturday
+
+**Today's Progress**: 
+Did a few JavaScript challenges on Enki. 
+
+**Thoughts**: 
+Have friends visiting from out of town, so the last day and next few days will probably end up being light challenge kind of days.
+
+**Link to work**: 
+
+n/a
